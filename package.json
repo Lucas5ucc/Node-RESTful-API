@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
-
   },
   "repository": {
     "type": "git",
@@ -24,5 +23,9 @@
   "homepage": "https://github.com/Lucas5ucc/Node-RESTful-API#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.5",
+    "uuid": "^9.0.1"
   }
 }
