@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "mysql2": "^3.6.5",
+    "sqlstring": "^2.3.3",
     "uuid": "^9.0.1"
   }
 }
